@@ -44,14 +44,14 @@ CUSTOM_SIZES = {
 }
 
 DEFAULT_IMAGES = {
-    "203": "https://i.ibb.co/1YSHrnyz/IMG-20260202-203237-removebg-preview.png",
+    "203": "https://i.ibb.co/6RpKCjXq/IMG-20260203-124044-removebg-preview-1-1.png",
     "204": "https://i.ibb.co/G4zcs79B/IMG-20260202-201819-removebg-preview-1.png",
     "205": "https://i.ibb.co/1YX2gxXr/IMG-20260202-203645-removebg-preview-1.png",
     "214": "https://i.ibb.co/dsJB9ybw/IMG-20260202-204144-removebg-preview.png",
     "211_1": "https://i.ibb.co/Fbr68cJW/IMG-20260202-202525-removebg-preview.png",
     "211_2": "https://i.ibb.co/1YSHrnyz/IMG-20260202-203237-removebg-preview.png",
     "W1": "https://i.ibb.co/rGmKJQRy/FF-M4-A1-1.png",
-    "W2": "https://system.ffgarena.cloud/api/iconsff?image=90200003",
+    "W2": "https://raw.githubusercontent.com/Anuj6112008/ITEMS-API/master/db-images/101888888.png",
 }
 
 BASE_IMAGE_URL = "https://i.ibb.co/k2vt71sM/file-00000000d58862383add91.png"
